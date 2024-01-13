@@ -7,7 +7,7 @@ _Note: This repo contains the *old* docs website. The new docs website is locate
 
 To view this website, visit [docs.minaprotocol.com](https://docs.minaprotocol.com/).
 
-## Contributing
+## Contributing 
 
 Click the `Suggest changes` button at the top right of any page on [the docs website](https://docs.minaprotocol.com/) to edit that page and submit a pull request via Github.
 
